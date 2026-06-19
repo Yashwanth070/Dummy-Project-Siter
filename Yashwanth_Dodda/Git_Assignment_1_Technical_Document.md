@@ -1,7 +1,8 @@
-# Git Assignment 1
-
-**Name:** Yashwanth Dodda  
-**Roll No:** B23IN096
+<div class="header-info">
+    <h1>Git Assignment 1</h1>
+    <strong>Name:</strong> Yashwanth Dodda <br>
+    <strong>Roll No:</strong> B23IN096
+</div>
 
 ---
 
@@ -20,14 +21,20 @@
 ### Screenshot 1: Git Installation Verification
 Below is the verification that Git has been successfully installed on the system.
 
-![Git Installation Verification](./screenshot1.png)
+*(Insert your terminal screenshot here)*
+<div style="border: 2px dashed #bdc3c7; padding: 50px; text-align: center; border-radius: 8px; color: #7f8c8d; margin: 20px 0;">
+    <strong>[ Screenshot 1: Terminal git version output ]</strong>
+</div>
 
 *The terminal shows `git version 2.15.0` installed on macOS.*
 
 ### Screenshot 2: GitHub Profile Portfolio
 Below is the GitHub profile created to be used as a portfolio, showing the published `Dummy-Project-Siter` repository.
 
-![GitHub Profile Portfolio](./screenshot2.png)
+*(Insert your GitHub profile screenshot here)*
+<div style="border: 2px dashed #bdc3c7; padding: 50px; text-align: center; border-radius: 8px; color: #7f8c8d; margin: 20px 0;">
+    <strong>[ Screenshot 2: GitHub Profile displaying Dummy-Project-Siter ]</strong>
+</div>
 
 *The GitHub profile (`Yashwanth070`) displaying the public repository `Dummy-Project-Siter`.*
 
